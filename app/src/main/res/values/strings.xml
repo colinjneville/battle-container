@@ -399,4 +399,6 @@
     <string name="header_settings_tracker">Tracker</string>
     <string name="page_rulebook">Rulebook</string>
     <string name="url_rulebook_pdf">https://cdn.shopify.com/s/files/1/0277/6724/2855/files/BattleCON-Web-Rulebook-v4.pdf</string>
+    <string name="misc_privacy_policy">Privacy Policy</string>
+    <string name="url_privacy_policy">https://github.com/colinjneville/battle-container/blob/master/playstore/privacypolicy.md</string>
 </resources>
